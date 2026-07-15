@@ -1,20 +1,3 @@
----
-title: Heap Fundamental
-published: 2025-05-02
-updated: 2025-05-02
-description: "Heap Basic"
-cover: "/assets/images/linhly.jpg"
-coverInContent: false
-category:
-  - Techniques
-tags:
-  - CTF
-  - Heap
-  - Linux
-draft: false
-lang: ""
----
-
 # HEAP BASIC
 ## I. Overview
 ### 1. Định nghĩa
